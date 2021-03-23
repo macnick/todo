@@ -1,6 +1,6 @@
 # Todo App
 
-> Applying the concepts of Single Responsibility and Loosely Coupled Objects while building our todo app
+> Applying the concepts of Single Responsibility and Loosely Coupled Objects while building our todo app.
 
 ## Features
 
@@ -18,11 +18,11 @@
 
 ## Screenshots
 
-### Desktop/Laptoop device
+### Desktop/Laptop device
 
 <img src="/dist/images/l.PNG" alt="">
 
-### With pop up modal
+### With pop up model
 <img src="/dist/images/lm.PNG" alt="">
 
 
@@ -30,21 +30,21 @@
 
 <img src="/dist/images/m.PNG" alt="">
 
-### With pop up modal
+### With pop up model
 <img src="/dist/images/mm.PNG" alt="">
 
 ### Mobile device
 
 <img src="/dist/images/s.PNG" alt="">
 
-### With pop up modal
+### With pop up model
 <img src="/dist/images/sm.PNG" alt="">
 
 ## Built With
 
-- HTML,
-- CSS,
-- Javascript es6
+- HTML
+- CSS
+- JavaScript ES6
 - UI Kit for styling and responsiveness
 
 ## Live Demo
@@ -68,14 +68,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author2**
+👤 **Nick Haralampopoulos**
 
 - Github: [@macnick](https://github.com/macnick)
 - Twitter: [@mac_experts](https://twitter.com/mac_experts)
 - Linkedin: [Nick Haralampopoulos](https://www.linkedin.com/in/nick-haralampopoulos/)
 - Email: [Nick Haralampopoulos](mac.expert.nick@gmail.com)
 
-👤 **Author1**
+👤 **Daniel Larbi Addo**
 
 - Github: [@addod19](https://github.com/addod19)
 - Twitter: [@DanielLarbiAdd1](https://twitter.com/DanielLarbiAdd1)
@@ -84,7 +84,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/addod19/todo/issues).
 
@@ -100,7 +100,7 @@ Give us a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to anyone who's code was used
 - Inspiration
 - etc
 
